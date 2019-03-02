@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Submisi 1: Football Club List &amp; Detail</string>
+
+    <string-array name="club_name">
+        <item>Parma FC</item>
+        <item>Ac Milan FC</item>
+        <item>Napoli FC</item>
+        <item>Lazio FC</item>
+        <item>Juventus FC</item>
+        <item>Fiorentina FC</item>
+        <item>Inter Milan FC</item>
+        <item>As Roma FC</item>
+    </string-array>
+
+    <string-array name="club_desc">
+        <item>Ini adalah Parma FC</item>
+        <item>Ini adalah Ac Milan FC</item>
+        <item>Ini adalah Napoli FC</item>
+        <item>Ini adalah Lazio FC</item>
+        <item>Ini adalah Juventus FC</item>
+        <item>Ini adalah Fiorentina FC</item>
+        <item>Ini adalah Inter Milan FC</item>
+        <item>Ini adalah As Roma FC</item>
+    </string-array>
+
+    <array name="club_image">
+        <item>@drawable/logo_parma</item>
+        <item>@drawable/logo_acm</item>
+        <item>@drawable/logo_napoli</item>
+        <item>@drawable/logo_lazio</item>
+        <item>@drawable/logo_juventus</item>
+        <item>@drawable/logo_acffiorentina</item>
+        <item>@drawable/logo_intermilan</item>
+        <item>@drawable/logo_asroma</item>
+    </array>
+    
+    <!-- String in Detail -->
+
+    <string name="nameclub_loading">Loading Nama Club Football</string>
+    <string name="descclub_loading">Loading Deskripsi Club Football</string>
+</resources>
